@@ -15,7 +15,7 @@ It's a CMake project, so you can build the compiler through your IDE, or on the 
 
 ## Usage
 
-```cpp
+```bash
 $ build/lameduck #compile hello.bf to ./hello or ./hello.exe
 $ ./hello
 ```
